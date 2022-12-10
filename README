@@ -1,0 +1,15 @@
+---Gabe and Bruce's Project D Submission---
+The associated project contains a basic operating system 
+that meets all the requirements listed in the Project D
+instructions.
+    All steps, one through six, were completed.
+Step 1 (write sector) and Step 4 (write a file) are
+demonstrated to work in other steps. Step 2 is demonstrated
+when the user enters in "dir" to the command line. All
+files on the disk's directory will be listed.
+Deleting a file (step 3) can be done in a manner that does
+not hurt the project's files if the "del" command is 
+entered after steps 5 and 6, copying and creating, respectively.
+The "copy" command must be used after the "create" command
+to demonstrate or test file creation in a non-destructive manner.
+
